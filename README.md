@@ -1,6 +1,7 @@
+# Learning Phase 1
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Based on : [Ngoding Bareng Antonio](https://www.youtube.com/watch?v=5miHyP6lExg)
 ## Getting Started
 
 First, run the development server:
